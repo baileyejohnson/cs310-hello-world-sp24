@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Bailey Johnson
  */
 
 public class HelloWorld {
@@ -14,5 +14,13 @@ public class HelloWorld {
     private void f1() {
         // v1.0
     }
-
+    private void f2(){
+        // v2.0
+    }
+    private void f3(){
+        // v3.0
+    }
+     private void f4(){
+        // v4.0 (working progress)
+    }
 }
